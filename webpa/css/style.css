@@ -1,0 +1,28 @@
+h1{
+    color:#003778 !important;
+}
+.menu_title{
+    color:#90620e !important;
+}
+.mainMenuIcons{
+    background-color:gold;
+}
+#main{
+    background-color: transparent!important;
+}
+#
+.option_list{
+    display: flex;
+    flex-direction: row;
+}
+.test{
+    color:black !important;
+    float:right !important;
+}
+#title_logo{
+    padding-left:0 !important;
+}
+#module_bar,#breadcrumb_bar{
+    float:right !important;
+    color:black !important;
+}
